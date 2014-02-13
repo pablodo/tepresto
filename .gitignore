@@ -37,3 +37,9 @@ nosetests.xml
 
 # Environment
 env
+
+# Database
+db.sqlite3
+
+# Text Editor
+*.swp
